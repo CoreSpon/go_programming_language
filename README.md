@@ -5,11 +5,11 @@
 
 TIP:  
 
-```
+
 Make sure to type: 
 
-
-go run filename.go
+```
+go run file_name.go
 
 ```
 
